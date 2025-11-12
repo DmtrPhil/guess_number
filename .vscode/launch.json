@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Package: first_project",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "first_project"
+        }
+    ]
+}
